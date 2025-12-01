@@ -7,7 +7,7 @@
 
 _1. Crear una aplicación en Unity que muestre valores de los sensores disponibles en el móvil._
 
-Primeramente, debimos activar todos los sensores presentes en el dispositivo con [este script](./scripts/EnableSensors.cs). Posteriormente, accedemos a los valores de los mismos aplicando [este script](./scripts/SensorsValues.cs) que se muestran en la UI del juego.
+En primer lugar, debemos activar todos los sensores presentes en el dispositivo con [este script](./scripts/EnableSensors.cs). Posteriormente, accedemos a los valores de los mismos aplicando [este script](./scripts/SensorsValues.cs) que se muestran en la UI del juego.
 
 Las mediciones en el centro de cálculo son:
 ![lectura_cc](./images/lectura_cc.png)
