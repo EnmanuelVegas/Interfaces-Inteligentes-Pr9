@@ -10,10 +10,10 @@ _1. Crear una aplicación en Unity que muestre valores de los sensores disponibl
 En primer lugar, debemos activar todos los sensores presentes en el dispositivo con [este script](./scripts/EnableSensors.cs). Posteriormente, accedemos a los valores de los mismos aplicando [este script](./scripts/SensorsValues.cs) que se muestran en la UI del juego.
 
 Las mediciones en el centro de cálculo son:
-![lectura_cc](./images/lectura_cc.png)
+![lectura_cc](./images/sensores_cc.png)
 
-Las mediciones en el jardin son:
-![lectura_jardin](./images/lectura_jardin.png)
+Por otro lado, las mediciones fuera del centro de cálculo son:
+![lectura_jardin](./images/sensores_fuera.png)
 
 _2. Hacer que el guerrero siempre esté orientado hacia el norte y utilice el acelerómetro para moverse hacia delante y detrás._
 
